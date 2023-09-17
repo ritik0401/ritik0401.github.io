@@ -97,6 +97,14 @@ header a {
 }
 
 #external-links ul li  a:hover, #hobbies ul li a:hover, #assignments tr td a:hover, #gsu a:hover {
-    color: green;
-	
+    color: green;	
+}
+#hobbies ul li a:hover, #assignments tr td a:hover, #gsu a:hover {
+    color: green;	
+}
+#assignments tr td a:hover, #gsu a:hover {
+    color: green;	
+}
+#gsu a:hover {
+    color: green;	
 }
